@@ -1,0 +1,9 @@
+{
+    "user":{
+       "email":"asea@aa.com",
+       "username":"adri",
+       "bio":null,
+       "image":"https://api.realworld.io/images/smiley-cyrus.jpeg",
+       "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFzZWFAYWEuY29tIiwidXNlcm5hbWUiOiJhZHJpIiwiYmlvIjpudWxsLCJpbWFnZSI6Imh0dHBzOi8vYXBpLnJlYWx3b3JsZC5pby9pbWFnZXMvc21pbGV5LWN5cnVzLmpwZWciLCJpYXQiOjE2NDE0MjYwMzMsImV4cCI6MTY0NjYxMDAzM30.B0SgnZTkwT_dzHeLZ8hv_JBROAiJcNGTd8whbN0XZ8I"
+    }
+ }
